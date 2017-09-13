@@ -6,10 +6,10 @@ Code for all 6.830 labs will be available in this repo. Once you have set up you
 Directions for Repo Setup
 -------------------------
 
-Directions can be [here](https://github.com/MIT-DB-Class/course-info)
+Directions can be [here](https://github.com/MIT-DB-Class/course-info-2017)
 
-LAB 1
+Lab Submission
 -----
 
-Instructions for Lab 1 (including how to submit answers) are [here](https://github.com/MIT-DB-Class/course-info/blob/master/lab1.md)
+Instructions for labs (including how to submit answers) are [here](https://github.com/MIT-DB-Class/course-info-2017)
 
